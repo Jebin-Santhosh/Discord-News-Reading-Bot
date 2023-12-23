@@ -9,8 +9,8 @@ A simple 24/7 Radio discord bot
 ## Setup
 Run these scripts:
 ```bash
-git clone https://github.com/CTK-WARRIOR/24-7-Discord-Music-Bot
-cd 24-7-Discord-Music-Bot
+git clone https://github.com/Jebin-Santhosh/Discord-News-Reading-Bot
+cd Discord-News-Reading-Bot
 npm install
 ```
 
@@ -23,5 +23,5 @@ Change all placeholders at the `config.json` file:
  - `LIVE`: YT Live Video URL
 
 After that, run `node index.js` to start your bot.
-## Discord server
-- [Discord](https://withwin.in/dbd)
+## Support Discord server
+- [Discord](https://discord.gg/d66Y3bA9CP)
