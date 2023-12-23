@@ -4,7 +4,7 @@ A simple 24/7 Radio discord bot
 ## Requirements
  - [FFMPEG](https://ffmpeg.org)
  - [NodeJS v12 or above](https://nodejs.org)
- - Git
+ - [Git](https://git-scm.com)
 
 ## Setup
 Run these scripts:
