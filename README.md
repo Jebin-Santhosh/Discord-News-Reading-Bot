@@ -1,4 +1,4 @@
-# 24-7-New-Reading-Bot
+# Discord-News-Reading-Bot
 A News Reading discord bot 
 
 ## Requirements
