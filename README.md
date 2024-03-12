@@ -1,5 +1,5 @@
 # Discord-News-Reading-Bot
-A News Reading discord bot 
+A News Reading Bot for discord !! 
 
 ## Requirements
  - [FFMPEG](https://ffmpeg.org)
