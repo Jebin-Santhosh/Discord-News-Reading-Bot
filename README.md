@@ -1,5 +1,5 @@
-# 24-7-Discord-Music-Bot
-A simple 24/7 Radio discord bot 
+# 24-7-New-Reading-Bot
+A News Reading discord bot 
 
 ## Requirements
  - [FFMPEG](https://ffmpeg.org)
